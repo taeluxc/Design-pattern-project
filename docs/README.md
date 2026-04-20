@@ -54,7 +54,7 @@ Abstract Factory Pattern
 ---
 
 ### Justification
-The Abstract Factory pattern is suitable for this system because it allows the creation of related objects (such as meals, drinks, and desserts) without exposing their concrete implementations. This helps in achieving a flexible and scalable design, where new restaurant types can be added بسهولة without modifying existing code.
+The Abstract Factory pattern is suitable for this system because it allows the creation of related objects (such as meals, drinks, and desserts) without exposing their concrete implementations. This helps in achieving a flexible and scalable design, where new restaurant types can be added easily without modifying existing code.
 
 ---
 
