@@ -4,4 +4,4 @@
 | Lujain &Marwa & katrena| ItalianFactory + Italian products implementation         | 20%          |
 | Marwa & katrena        | FastFood products + testing                              | 20%          |
 | Mohammad and Danya     | Documentation (problem analysis + pattern justification) | 20%          |
-|       Lujain& Marwa    | Presentation slides + demo preparation                   | 20%          |
+| Lujain&Marwa&Katrena   | Presentation slides + demo preparation                   | 20%          |
